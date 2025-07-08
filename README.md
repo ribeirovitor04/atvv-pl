@@ -26,4 +26,4 @@ npm install
 npm start
 ```
 
-node version 18.9.11
+node version 18.11.9
