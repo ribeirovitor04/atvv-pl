@@ -25,3 +25,5 @@ npm install
 ```shell
 npm start
 ```
+
+node version 18.9.11
